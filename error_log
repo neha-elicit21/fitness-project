@@ -1,0 +1,55 @@
+[08-Jan-2022 08:17:01 UTC] PHP Fatal error:  Cannot redeclare workout::report() in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/workout.php on line 91
+[08-Jan-2022 08:17:23 UTC] PHP Fatal error:  Cannot redeclare workout::report() in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/workout.php on line 91
+[08-Jan-2022 09:35:09 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) or const (T_CONST) in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/users.php on line 270
+[08-Jan-2022 09:57:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_rules() on null in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/users.php:88
+Stack trace:
+#0 /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/system/core/CodeIgniter.php(360): Users->submit_trainee()
+#1 /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/index.php(202): require_once('/home/j8olajhes...')
+#2 {main}
+  thrown in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/users.php on line 88
+[08-Jan-2022 10:20:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/views/customer.php on line 71
+[08-Jan-2022 10:27:40 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/users.php on line 148
+[08-Jan-2022 10:27:41 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/users.php on line 148
+[08-Jan-2022 10:28:15 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/users.php on line 147
+[08-Jan-2022 10:28:16 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/users.php on line 147
+[08-Jan-2022 10:29:01 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/users.php on line 146
+[08-Jan-2022 10:29:02 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/users.php on line 146
+[08-Jan-2022 10:29:02 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/users.php on line 146
+[08-Jan-2022 10:29:03 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/users.php on line 146
+[08-Jan-2022 10:29:04 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/users.php on line 146
+[08-Jan-2022 10:29:06 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/users.php on line 146
+[08-Jan-2022 10:29:40 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/users.php on line 145
+[08-Jan-2022 10:29:41 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/users.php on line 145
+[08-Jan-2022 10:29:42 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/users.php on line 145
+[08-Jan-2022 10:29:42 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/users.php on line 145
+[08-Jan-2022 10:29:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/users.php on line 148
+[08-Jan-2022 10:29:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/users.php on line 148
+[08-Jan-2022 10:29:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/users.php on line 148
+[08-Jan-2022 10:30:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/users.php on line 148
+[08-Jan-2022 10:30:15 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) or const (T_CONST) in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/users.php on line 147
+[08-Jan-2022 10:30:28 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/users.php on line 146
+[08-Jan-2022 10:30:29 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/users.php on line 146
+[08-Jan-2022 10:35:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method My_model::getSingleData() in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/users.php:152
+Stack trace:
+#0 /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/system/core/CodeIgniter.php(360): Users->edit_trainee('3')
+#1 /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/index.php(202): require_once('/home/j8olajhes...')
+#2 {main}
+  thrown in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/users.php on line 152
+[08-Jan-2022 11:15:06 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/views/customer.php on line 9
+[08-Jan-2022 11:15:18 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/views/customer.php on line 7
+[08-Jan-2022 11:16:03 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/views/customer.php on line 7
+[08-Jan-2022 12:39:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method My_model::getAllRecord() in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/workout.php:29
+Stack trace:
+#0 /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/system/core/CodeIgniter.php(360): workout->index()
+#1 /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/index.php(202): require_once('/home/j8olajhes...')
+#2 {main}
+  thrown in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/controllers/workout.php on line 29
+[08-Jan-2022 12:43:56 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/views/workout.php on line 89
+[08-Jan-2022 12:43:57 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/views/workout.php on line 89
+[08-Jan-2022 12:48:29 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/views/workout.php on line 88
+[08-Jan-2022 12:49:01 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/views/workout.php on line 88
+[08-Jan-2022 12:49:04 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/views/workout.php on line 88
+[08-Jan-2022 12:49:05 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/views/workout.php on line 88
+[08-Jan-2022 12:49:06 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/views/workout.php on line 88
+[08-Jan-2022 12:49:07 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/views/workout.php on line 88
+[08-Jan-2022 12:49:08 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/j8olajhes9m1/public_html/fitness.fullstackservice.in/application/views/workout.php on line 88
